@@ -2,17 +2,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hueman\n"
 "POT-Creation-Date: 2013-12-27 14:36+0100\n"
-"PO-Revision-Date: 2014-01-08 10:39+0100\n"
-"Last-Translator: Paco Comesaña <paco@hazloya.es>\n"
+"PO-Revision-Date: 2014-10-13 00:07+0100\n"
+"Last-Translator: Angel Calzado <angelcalzado@sintaxisweb.es>\n"
 "Language-Team: \n"
-"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.3\n"
+"X-Generator: Poedit 1.6.9\n"
 "X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_ES\n"
 "X-Poedit-SearchPath-0: ..\n"
 
 #: ../404.php:10
@@ -20,9 +20,8 @@ msgid ""
 "The page you are trying to reach does not exist, or has been moved. Please "
 "use the menus or the search box to find what you are looking for."
 msgstr ""
-"La página que estás intentando ver no existe o ha cambiado de sitio. Por "
-"favor, usa los menús o la caja de búsqueda para encontrar lo que estás "
-"buscando."
+"La página que estas tratando de buscar no existe, o ha sido movida a otro "
+"lugar. Por favor, usa los menús o el cuadro de búsqueda para encontrarlo."
 
 #: ../comments.php:7
 msgid "No Responses"
@@ -34,15 +33,15 @@ msgstr "1 respuesta"
 
 #: ../comments.php:7
 msgid "% Responses"
-msgstr "% respuestas"
+msgstr "% Respuestas"
 
 #: ../comments.php:10
 msgid "Comments"
 msgstr "Comentarios"
 
 #: ../comments.php:11
-msgid "Track/Pingbacks"
-msgstr "Track/Pingbacks"
+msgid "Pingbacks"
+msgstr "Pingbacks"
 
 #: ../content.php:37
 msgid "More"
@@ -50,25 +49,25 @@ msgstr "Más"
 
 #: ../footer.php:60
 msgid "All Rights Reserved."
-msgstr "Todos los derechos reservados."
+msgstr "Todos los Derechos Reservados"
 
 #: ../footer.php:66
 msgid "Powered by"
-msgstr "Funciona con"
+msgstr "Funciona gracias a "
 
 #: ../footer.php:66
 msgid "Theme by"
-msgstr "Diseño de"
+msgstr "Diseñado por"
 
 #: ../search.php:11
 msgid "Sorry, no posts matched your criteria. Try again with some other terms."
 msgstr ""
-"Disculpa: ningún artículo coincide con tu búsqueda. Prueba con otras "
-"palabras."
+"Lo sentimos, ningún artículo coincide con su búsqueda. Prueba de nuevo con "
+"otras palabras."
 
 #: ../searchform.php:3
 msgid "To search type and hit enter"
-msgstr "Escribe tu búsqueda y pulsa Enter"
+msgstr "Escribe tu búsqueda y pulsa la tecla Intro."
 
 #: ../sidebar.php:9
 msgid "Expand Sidebar"
@@ -84,7 +83,7 @@ msgstr "Etiquetas:"
 
 #: ../functions/widgets/alx-tabs.php:27
 msgid "Recent Posts"
-msgstr "Últimos artículos"
+msgstr "Artículos recientes"
 
 #: ../functions/widgets/alx-tabs.php:28
 msgid "Popular Posts"
@@ -92,7 +91,7 @@ msgstr "Artículos populares"
 
 #: ../functions/widgets/alx-tabs.php:29
 msgid "Recent Comments"
-msgstr "Últimos comentarios"
+msgstr "Comentarios recientes"
 
 #: ../functions/widgets/alx-tabs.php:30
 msgid "Tags"
@@ -132,15 +131,15 @@ msgstr "Etiquetado:"
 
 #: ../inc/page-title.php:33
 msgid "Daily Archive:"
-msgstr "Archivo por día:"
+msgstr "Archivo Diario:"
 
 #: ../inc/page-title.php:36
 msgid "Monthly Archive:"
-msgstr "Archivo por mes:"
+msgstr "Archivo Mensual:"
 
 #: ../inc/page-title.php:39
 msgid "Yearly Archive:"
-msgstr "Archivo por año:"
+msgstr "Archivo Anual:"
 
 #: ../inc/page-title.php:42 ../inc/page-title.php:44 ../inc/page-title.php:46
 #: ../inc/page-title.php:48 ../inc/page-title.php:50 ../inc/page-title.php:52
